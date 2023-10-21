@@ -1,3 +1,5 @@
+![logo](https://github.com/rushikesh2602/rushikesh2602/blob/main/coding%20banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Rushikesh Naykodi</h1>
 <h3 align="center">A passionate software engineer</h3>
 
